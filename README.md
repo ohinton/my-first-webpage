@@ -1,12 +1,12 @@
-# _{My Favorite Things Website TESTING!}_
+# _My Favorite Things Website_
 
-#### _{Basic website}, {5/24/2016}_
+#### _Basic website, 5/24/2016_
 
-#### By _**{Olivia Hinton and Igor Seleznov}**_
+#### By _**Olivia Hinton and Igor Seleznov**_
 
 ## Description
 
-_{This is a basic website used during the Epicodus into class.}_
+_This is a basic website used during the Epicodus into class._
 
 ## Setup/Installation Requirements
 
@@ -16,18 +16,18 @@ _{This is a basic website used during the Epicodus into class.}_
 
 ## Known Bugs
 
-_{No known bugs}_
+_No known bugs_
 
 ## Support and contact details
 
-_{If you experience issues, contact Olivia at hinton.olivia@gmail.com or Igor at seleznov.igor@gmail.com}_
+_If you experience issues, contact Olivia at hinton.olivia@gmail.com or Igor at seleznov.igor@gmail.com_
 
 ## Technologies Used
 
-_{Pure HTML, Markdown}_
+_Pure HTML, Markdown_
 
 ### License
 
-*{This software is licensed under the MIT license}*
+*This software is licensed under the MIT license*
 
-Copyright (c) 2016 **_{Epicodus}_**
+Copyright (c) 2016 **_Epicodus_**
